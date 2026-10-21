@@ -11,3 +11,4 @@ Start with [Roadmap](RoadMap.md) for the high level plan.
 
 - [Natural Language Processing](./NaturalLanguageProcessing.md) (NLP)   
 - [Vectors](./Vectors.md)  
+- [Model Training](./ModelTraining.md)  
